@@ -1,4 +1,4 @@
-﻿# Aqui está um README para o seu aplicativo "IA Tutor baseado no Gemini para a disciplina de UPx5":
+﻿# IA Tutor Aristóteles baseado no Gemini para a disciplina de UPx5
 
 # IA Tutor - UPx5
 

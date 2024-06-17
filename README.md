@@ -1,7 +1,5 @@
 ﻿# IA Tutor Aristóteles baseado no Gemini para a disciplina de UPx5
 
-# IA Tutor - UPx5
-
 Este é um aplicativo de Inteligência Artificial que utiliza o modelo de linguagem Gemini para fornecer tutoria personalizada aos alunos da disciplina de UPx5. O aplicativo permite que os alunos façam perguntas e recebam respostas detalhadas, além de exercícios e explicações passo a passo.
 
 ## Recursos
